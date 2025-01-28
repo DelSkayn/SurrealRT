@@ -1,7 +1,7 @@
 import startRt from "./rt.surql?raw"
 import surrealObj from "./surreal.obj?raw"
 
-const DIM = [64, 64]
+const DIM = [512, 512]
 
 const canvas = document.getElementById("display");
 canvas.width = DIM[0];
