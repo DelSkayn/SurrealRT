@@ -1,5 +1,7 @@
 # SurrealRT
 
+![example image](./example.png)
+
 The worlds first multi-model ray tracer!
 Get real time results as pixel are streamed in from the database rendering your scenes!.
 
